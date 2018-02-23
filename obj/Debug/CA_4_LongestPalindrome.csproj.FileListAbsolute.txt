@@ -1,0 +1,7 @@
+C:\Users\Chuan\Project\CA_4_LongestPalindrome\CA_4_LongestPalindrome\bin\Debug\CA_4_LongestPalindrome.exe.config
+C:\Users\Chuan\Project\CA_4_LongestPalindrome\CA_4_LongestPalindrome\bin\Debug\CA_4_LongestPalindrome.exe
+C:\Users\Chuan\Project\CA_4_LongestPalindrome\CA_4_LongestPalindrome\bin\Debug\CA_4_LongestPalindrome.pdb
+C:\Users\Chuan\Project\CA_4_LongestPalindrome\CA_4_LongestPalindrome\obj\Debug\CA_4_LongestPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\Chuan\Project\CA_4_LongestPalindrome\CA_4_LongestPalindrome\obj\Debug\CA_4_LongestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Chuan\Project\CA_4_LongestPalindrome\CA_4_LongestPalindrome\obj\Debug\CA_4_LongestPalindrome.exe
+C:\Users\Chuan\Project\CA_4_LongestPalindrome\CA_4_LongestPalindrome\obj\Debug\CA_4_LongestPalindrome.pdb
